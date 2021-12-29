@@ -1,5 +1,5 @@
 {
-  "name": "heatmap.js",
+  "name": "@zouyaoji/heatmap.js",
   "version": "2.0.5",
   "description": "Dynamic JavaScript Heatmaps for the Web",
   "homepage": "https://www.patrick-wied.at/static/heatmapjs/",
@@ -16,6 +16,10 @@
     "grunt-contrib-concat": ">= 0.1.3",
     "grunt-contrib-watch": "0.2.0rc7",
     "grunt-contrib-jshint": ">= 0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zouyaoji/heatmap.js.git"
   },
   "keywords": [
     "heatmap",
